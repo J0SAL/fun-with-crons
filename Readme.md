@@ -7,3 +7,4 @@
      - trial-version
    - https://aws.amazon.com/connect/
 4. Recordings and message for call
+5. Cron - newsletter
